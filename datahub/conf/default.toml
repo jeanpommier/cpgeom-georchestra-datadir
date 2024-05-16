@@ -202,7 +202,7 @@ external_viewer_open_new_tab = true
 #     wonderful <span style="font-size: 1.2em;">data catalogue</span>
 #     """
 [translations.en]
-datahub.header.title.html = '<div class="text-white">Discover all the data <br> of your platform</div>'
+datahub.header.title.html = '<div class="text-white">Decouvrir la data <br> de votre platforme</div>'
 
 [translations.fr]
 datahub.header.title.html = '<div class="text-white">Toutes les données <br> de votre plateforme</div>'
