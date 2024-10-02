@@ -35,7 +35,9 @@
         "enableFog": false,
         "depthTestAgainstTerrain": false,
         "terrainProvider": {
-          "type": "ellipsoid"
+          "type": "cesium",
+          "url": "https://3d.georchestra.org/terrain",
+          "requestVertexNormals": true 
         }
       },
       "floatingIdentifyDelay": 1000

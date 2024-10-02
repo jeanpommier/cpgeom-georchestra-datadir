@@ -51,6 +51,7 @@ background_color = "#fdfbff"
 # Note: The search header does not use the header_foreground_color as it allows futher customisation via HTML.
 # header_background = "center /cover url('assets/img/header_bg.webp')" or "var(--color-gray-500)"
 # header_foreground_color = 'white'
+header_background = "center /cover url('assets/img/picto_rev.jpg')"
 
 # This optional parameter allows to override the fallback image that should be used for thumbnails,
 # if the metadata record has no thumbnail image url or it is broken.
